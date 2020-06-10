@@ -1,1 +1,1 @@
-melsnacks
+An app to buy Mel's burgers.
